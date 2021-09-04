@@ -54,5 +54,8 @@ public class test {
         collect1.parallelStream().forEach(System.out::print);
 
 
+        System.out.println("git");
+        System.out.println("master");
+
     }
 }
