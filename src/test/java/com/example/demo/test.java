@@ -57,5 +57,6 @@ public class test {
         System.out.println("git");
         System.out.println("master");
 
+        System.out.println("hot-fix");
     }
 }
