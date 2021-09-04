@@ -53,6 +53,6 @@ public class test {
         System.out.println("差集：" + collect1);
         collect1.parallelStream().forEach(System.out::print);
 
-
+        System.out.println("hot-fix");
     }
 }
